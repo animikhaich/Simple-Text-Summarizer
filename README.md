@@ -11,6 +11,13 @@ This is a simple text summarization algorithm that was developed based on the fr
 ## Installation for Python 3
   Visit: https://www.python.org/downloads/ and download the version suitable for your System
 
+## Installation for NLTK
+  Open Command Prompt (Windows) or Terminal (Linux) and type in the following command:
+
+     pip install nltk
+
+  Visit: https://www.nltk.org/install.html for details.
+
 ## Installation for PyQt5
   Open Command Prompt (Windows) or Terminal (Linux) and type in the following command:
 
